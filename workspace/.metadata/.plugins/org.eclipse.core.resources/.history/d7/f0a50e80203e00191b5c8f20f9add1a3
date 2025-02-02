@@ -1,0 +1,5 @@
+package com.naga.start;
+
+public class S extends String {
+
+}
